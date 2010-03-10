@@ -27,4 +27,4 @@ end
 
 #uncomment to run the ssmtp recipe
 #require_recipe "ssmtp"
-require "cgt"
+require_recipe "cgt"
